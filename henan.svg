@@ -9,14 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="250"
-   height="242"
-   id="svg11679"
+   width="2482"
+   height="2392"
+   id="svg6979"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 82">
+   sodipodi:docname="New document 59">
   <defs
-     id="defs11681" />
+     id="defs6981" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -36,7 +36,7 @@
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
-     id="metadata11684">
+     id="metadata6984">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -51,9 +51,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-810.36218)">
+     transform="translate(0,1339.6378)">
     <g
-       transform="matrix(0.10113269,0,0,0.10113269,-1609.0211,-169.82638)"
+       transform="translate(-15910,-11032.638)"
        class="com.sun.star.drawing.CustomShape"
        id="g506">
       <g
