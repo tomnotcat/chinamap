@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="3892"
@@ -14,9 +15,31 @@
    id="svg4329"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 15">
+   sodipodi:docname="yunnan.svg">
   <defs
-     id="defs4331" />
+     id="defs4331">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2987">
+      <stop
+         style="stop-color:#fffeee;stop-opacity:1;"
+         offset="0"
+         id="stop2989" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop2991" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2987"
+       id="linearGradient2993"
+       x1="10109.066"
+       y1="17718.219"
+       x2="10331.3"
+       y2="17491.945"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,14 +47,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.04375"
-     inkscape:cx="482.79199"
-     inkscape:cy="-2896.2161"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1989.9891"
+     inkscape:cy="2772.6856"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="936"
+     inkscape:window-width="1440"
+     inkscape:window-height="876"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
@@ -43,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,7 +82,7 @@
       <g
          id="g368">
         <path
-           style="fill:#fffeee;stroke:none"
+           style="fill:url(#linearGradient2993);stroke:none;fill-opacity:1"
            inkscape:connector-curvature="0"
            d="m 11993,17595 0,0 -62,-52 -53,-45 -52,-26 -53,-26 0,0 8,-80 0,-62 -8,-53 -18,-44 0,0 -44,-35 0,0 -44,0 -36,9 -35,9 -26,17 -53,44 -44,53 0,0 -124,-26 0,0 -62,-88 -26,-36 -26,-17 0,0 -71,-88 -26,-27 -18,-9 -27,-9 -35,0 -97,0 0,0 -18,-35 -17,-35 -9,-35 -9,-36 0,-61 0,-53 0,0 27,-71 8,-71 -8,-61 -9,-27 -9,-26 0,0 -106,-27 -53,-26 -9,-9 0,-18 0,-61 0,0 -44,-150 0,0 -53,-80 0,0 -26,-97 -18,-35 -17,-18 -27,-17 -26,-9 -80,-9 0,0 -123,71 -62,26 -53,9 0,0 -9,-18 0,0 -8,-379 0,0 70,-159 0,0 71,-79 61,-62 71,-62 97,-70 0,0 106,-97 0,0 9,-186 0,0 44,-79 0,0 0,-97 0,-97 17,-80 9,-35 18,-18 0,0 9,-79 8,-62 -8,-61 -27,-53 0,0 -185,-159 0,0 0,-141 0,0 44,0 44,-9 97,-35 0,0 9,-53 0,-53 0,-53 -9,-53 -26,-88 0,-44 -9,-45 0,0 35,-26 35,-26 18,0 18,0 26,17 27,18 0,0 70,159 36,97 26,105 0,0 18,27 17,9 71,9 0,0 18,-36 17,-26 9,-71 0,-114 0,0 53,-45 0,0 26,45 27,53 44,141 0,0 70,106 45,61 61,71 0,0 177,26 0,0 159,300 0,0 158,212 0,0 9,71 0,0 -35,44 -27,35 -8,35 0,80 0,0 44,53 35,44 62,44 35,9 44,17 0,0 53,36 35,26 53,18 0,0 124,-9 0,0 326,-141 0,0 27,-71 17,-53 9,-62 0,-61 0,0 -35,-53 -27,-27 -61,-44 0,0 0,-106 0,-35 26,-35 0,0 62,-36 70,-44 62,-53 53,-61 0,0 0,-115 0,0 -18,-62 -26,-44 -18,-26 -26,-27 0,0 -9,-35 0,0 71,-18 0,0 35,-44 26,-44 18,-53 18,-26 26,-9 53,0 79,9 0,0 97,255 0,0 44,53 36,36 44,35 0,0 159,0 0,0 70,-53 71,-53 0,0 26,44 0,0 0,62 -9,79 -17,80 -18,35 -26,35 0,0 -62,18 -62,0 0,0 -141,-71 0,0 -115,0 -79,18 -35,9 -36,26 -79,62 0,0 -53,79 0,0 0,89 0,44 27,62 0,0 8,44 18,26 18,27 26,26 27,9 35,-9 44,-18 0,0 71,-8 26,-9 35,0 18,17 18,18 8,44 9,53 0,0 -62,212 0,0 -35,53 -26,44 0,44 9,35 26,36 35,26 53,26 71,27 0,0 -9,123 0,0 -9,62 -26,71 0,35 0,44 8,35 18,36 0,0 132,159 0,0 300,79 0,0 36,26 26,18 35,18 0,0 115,9 0,0 26,97 0,0 -26,35 -18,35 0,0 -97,62 -79,35 0,0 -62,0 -53,9 -53,18 -44,17 -88,44 -88,62 0,0 -35,71 -36,44 -35,35 0,0 -168,0 0,0 -88,97 -26,18 -27,17 -35,9 -26,0 0,0 -36,-53 -35,-35 -35,-18 -36,0 -35,9 -35,18 -62,44 0,0 -44,9 -35,0 -36,-9 -17,-9 -44,-35 -36,-35 0,0 -53,-9 -35,0 -35,0 -27,17 -26,18 -18,18 -35,61 0,0 -26,18 -27,9 -35,0 -27,-9 -53,-26 -26,-27 0,0 -71,0 0,0 -44,44 -26,36 -9,44 -9,79 0,0 35,53 36,53 9,26 0,36 0,44 -9,44 0,0 0,53 17,62 9,70 18,88 0,0 -35,27 -27,17 0,0 0,0 z m -1790,-4110 0,0 z m 3890,4111 0,0 z"
            id="path370" />

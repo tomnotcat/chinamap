@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2675"
@@ -14,9 +15,31 @@
    id="svg9576"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 81">
+   sodipodi:docname="guizhou.svg">
   <defs
-     id="defs9578" />
+     id="defs9578">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2987">
+      <stop
+         style="stop-color:#fffeee;stop-opacity:1;"
+         offset="0"
+         id="stop2989" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop2991" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2987"
+       id="linearGradient2993"
+       x1="13013.571"
+       y1="13370.357"
+       x2="13139"
+       y2="13501.785"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,14 +47,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="375"
-     inkscape:cy="520"
+     inkscape:zoom="0.175"
+     inkscape:cx="895.97856"
+     inkscape:cy="1269.7524"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="936"
+     inkscape:window-width="1440"
+     inkscape:window-height="876"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
@@ -43,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,7 +82,7 @@
       <g
          id="g418">
         <path
-           style="fill:#fffeee;stroke:none"
+           style="fill:url(#linearGradient2993);stroke:none"
            inkscape:connector-curvature="0"
            d="m 14084,15761 0,0 -80,-36 -53,-35 -35,-35 -35,-27 0,0 -98,-35 0,0 -88,0 -62,0 -53,18 -61,44 0,0 -71,97 0,0 0,-53 9,-44 26,-62 0,0 9,-185 0,0 -194,-89 0,0 9,-53 18,-44 0,0 70,-238 0,0 18,-18 0,-26 0,-44 -18,-71 0,0 -62,-70 0,0 -53,8 -53,9 -114,27 0,0 -27,0 -17,-18 -9,-9 -9,-26 0,-35 0,-18 0,0 -26,-53 0,0 8,-71 9,-53 27,-44 26,-26 35,-27 45,-17 114,-27 0,0 62,0 0,0 71,36 70,26 36,9 44,9 44,-9 44,-18 0,0 62,-70 0,0 26,-80 0,0 44,-9 0,0 18,18 35,9 88,9 203,8 0,0 27,-35 18,-26 8,-36 9,-35 0,-62 0,-61 0,0 -44,-45 -35,-26 -80,-44 -150,-53 0,0 -8,-35 -9,-27 0,-26 9,-18 17,-9 18,-9 62,-8 0,0 97,70 0,0 176,35 0,0 71,-8 70,-18 71,-35 71,-36 61,-53 53,-52 44,-53 36,-62 0,0 9,-35 8,-36 18,-26 27,-18 26,-9 35,-8 80,0 0,0 26,17 27,27 26,26 27,35 35,89 18,97 0,0 114,141 62,70 79,71 0,0 142,53 0,0 17,53 18,70 0,36 0,44 -9,35 -26,35 0,0 -53,27 -53,26 -80,27 -26,26 -18,27 0,53 0,70 0,0 53,0 62,-17 0,0 176,-9 0,0 -17,309 0,0 17,35 18,26 71,71 0,0 61,97 0,0 -70,9 -62,18 -97,61 0,0 -35,44 -36,36 -79,62 -88,61 -80,71 0,0 -70,18 -71,26 -70,9 -62,0 0,0 -124,-71 0,0 -70,-70 -18,-9 -18,-9 -44,0 -70,0 0,0 -27,9 -18,17 0,0 -8,98 0,0 -124,123 -53,62 -53,70 0,0 -53,27 -44,9 -70,9 0,0 0,0 z m -1059,-2347 0,0 z m 2674,2347 0,0 z"
            id="path420" />

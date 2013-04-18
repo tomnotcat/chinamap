@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="4288"
@@ -14,9 +15,31 @@
    id="svg8899"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 75">
+   sodipodi:docname="sichuan.svg">
   <defs
-     id="defs8901" />
+     id="defs8901">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2987">
+      <stop
+         style="stop-color:#fffeee;stop-opacity:1;"
+         offset="0"
+         id="stop2989" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop2991" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2987"
+       id="linearGradient2993"
+       x1="10358.428"
+       y1="15166.001"
+       x2="10544.143"
+       y2="14994.571"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,12 +49,12 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
      inkscape:cx="375"
-     inkscape:cy="520"
+     inkscape:cy="977.14286"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="936"
+     inkscape:window-width="1440"
+     inkscape:window-height="876"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
@@ -43,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,7 +82,7 @@
       <g
          id="g438">
         <path
-           style="fill:#fffeee;stroke:none"
+           style="fill:url(#linearGradient2993);stroke:none;fill-opacity:1"
            inkscape:connector-curvature="0"
            d="m 12312,15125 0,0 -44,-18 0,0 -71,-44 -62,-36 -53,-26 -52,-35 0,0 -62,-71 0,0 0,-70 0,0 35,-44 27,-53 8,-36 -8,-44 -9,-35 -18,-35 -53,-71 0,0 -35,-35 -27,-44 -53,-80 -35,-70 -44,-62 0,0 -35,-88 -18,-18 -17,-17 -18,-9 -18,0 -70,0 0,0 -80,-36 0,0 -106,-149 0,0 -79,-230 0,0 -62,-79 0,0 -61,0 -36,26 -26,27 -9,44 0,97 -9,44 -17,53 0,0 -36,-18 0,0 -9,-79 -26,-80 -26,-61 -18,-62 0,0 18,-18 8,-17 9,-36 0,-61 0,0 18,-168 0,0 -35,-88 -18,-79 -9,-80 9,-70 0,0 44,-53 44,-53 0,0 -18,-203 0,0 -97,-141 0,0 -44,-168 -17,-62 -27,-52 0,0 -88,-106 -71,-97 -61,-97 -18,-44 -9,-45 0,0 -159,-105 0,0 -26,-45 0,0 -26,0 0,0 0,-105 0,-53 8,-36 0,0 36,-17 26,-27 18,-26 9,-35 8,-62 9,-71 0,0 -114,-132 0,0 0,-97 0,0 326,-18 0,0 35,18 44,44 44,53 44,62 0,0 0,53 18,53 27,44 26,53 79,97 89,88 0,0 35,0 35,9 18,8 17,9 45,62 0,0 35,-9 35,0 35,-17 53,-36 0,0 27,0 0,0 26,18 0,0 0,18 9,17 18,9 17,9 53,9 53,8 0,0 36,45 0,0 88,0 0,0 79,-62 0,0 203,-35 0,0 18,-27 17,-26 0,0 0,-53 -17,-62 -27,-106 -17,-53 -9,-53 9,-35 8,-26 0,0 27,17 35,35 35,27 62,35 0,0 27,36 0,0 53,17 61,0 62,0 71,-17 0,0 70,-71 0,0 -9,-88 -17,-62 -18,-44 -9,-44 0,0 44,-53 53,-44 36,-27 26,-8 35,0 44,17 0,0 18,53 27,44 44,44 70,62 0,0 115,44 0,0 44,53 62,53 70,62 36,35 26,53 0,0 35,88 0,0 27,53 44,62 53,53 35,26 35,9 0,0 309,0 0,0 44,-27 53,-26 53,-18 62,0 0,0 203,71 0,0 185,0 0,0 88,79 53,27 88,9 0,0 88,79 0,0 0,220 0,0 -61,80 -53,88 -35,88 -36,97 0,0 -97,133 -123,132 0,0 -62,18 -44,0 -44,-9 -27,-9 -53,-53 -70,-53 0,0 -27,-26 -26,-27 -53,-26 -44,-9 -44,0 0,0 -18,35 0,0 0,177 0,0 18,52 17,53 0,62 0,80 0,0 -8,61 -18,80 0,79 9,88 0,0 70,71 0,0 27,17 26,27 27,35 26,44 9,44 0,44 -9,45 -35,44 0,0 -62,35 -26,26 -9,18 -9,26 0,80 0,0 27,26 26,27 79,35 97,35 53,36 44,35 0,0 -8,97 -9,53 -18,17 -9,27 0,0 -97,-9 -97,-9 -79,-17 -62,-27 0,0 -9,-62 -9,-52 -17,-45 -18,-44 0,0 -35,9 -35,0 -44,27 -45,35 -44,26 0,0 -114,0 0,0 -44,-35 -36,-44 -26,-35 -18,-44 -26,-89 -18,-70 0,0 -53,-71 0,0 -115,0 -44,0 -26,9 -27,18 -17,26 -18,44 -9,53 0,0 -35,27 -35,17 -27,9 -35,18 0,0 0,79 0,0 35,35 36,62 17,27 9,35 0,35 -9,44 0,0 -17,36 -27,26 -70,44 -124,80 0,0 -35,44 0,0 0,176 0,0 17,26 18,18 44,27 18,17 17,36 9,44 9,61 0,0 -35,71 0,0 -53,26 -53,27 0,0 -291,115 0,0 0,0 z m -1905,-4216 0,0 z m 4287,4216 0,0 z"
            id="path440" />

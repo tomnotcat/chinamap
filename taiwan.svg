@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="690"
@@ -14,9 +15,31 @@
    id="svg5239"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 30">
+   sodipodi:docname="taiwan.svg">
   <defs
-     id="defs5241" />
+     id="defs5241">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2987">
+      <stop
+         style="stop-color:#fffeee;stop-opacity:1;"
+         offset="0"
+         id="stop2989" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop2991" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2987"
+       id="linearGradient2993"
+       x1="21263.715"
+       y1="16743.857"
+       x2="21209.43"
+       y2="16692.428"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,12 +49,12 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
      inkscape:cx="247.85683"
-     inkscape:cy="881.40146"
+     inkscape:cy="367.11575"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="936"
+     inkscape:window-width="1440"
+     inkscape:window-height="876"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
@@ -43,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,7 +82,7 @@
       <g
          id="g398">
         <path
-           style="fill:#fffeee;stroke:none"
+           style="fill:url(#linearGradient2993);stroke:none;fill-opacity:1"
            inkscape:connector-curvature="0"
            d="m 20893,16730 0,0 -132,-203 0,0 -89,-27 0,0 -17,-62 -36,-61 -35,-44 -26,-27 0,0 0,-97 0,0 17,-132 9,-53 9,-62 0,0 -18,-62 0,-44 0,-44 18,-35 44,-71 53,-70 0,0 35,-150 0,0 45,-106 35,-88 53,-80 71,-79 0,0 141,-115 0,0 150,-8 0,0 18,79 9,62 0,53 0,0 -27,52 -18,62 -8,71 -9,70 9,159 8,159 0,0 -35,97 -53,115 -106,211 0,0 -26,88 0,0 -53,406 0,0 -18,18 -18,18 0,0 0,0 z m -335,-1720 0,0 z m 689,1720 0,0 z"
            id="path400" />

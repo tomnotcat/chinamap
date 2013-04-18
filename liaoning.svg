@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2596"
@@ -14,9 +15,31 @@
    id="svg5660"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 46">
+   sodipodi:docname="liaoning.svg">
   <defs
-     id="defs5662" />
+     id="defs5662">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2987">
+      <stop
+         style="stop-color:#fffeee;stop-opacity:1;"
+         offset="0"
+         id="stop2989" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop2991" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2987"
+       id="linearGradient2993"
+       x1="18881.285"
+       y1="8140.7144"
+       x2="19055.57"
+       y2="8006.4287"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,12 +49,12 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
      inkscape:cx="375"
-     inkscape:cy="520"
+     inkscape:cy="748.57143"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="936"
+     inkscape:window-width="1440"
+     inkscape:window-height="876"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
@@ -43,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,7 +82,7 @@
       <g
          id="g608">
         <path
-           style="fill:#fffeee;stroke:none"
+           style="fill:url(#linearGradient2993);stroke:none;fill-opacity:1"
            inkscape:connector-curvature="0"
            d="m 19949,8113 0,0 -9,-17 0,0 26,-62 36,-26 26,-27 44,-35 0,0 44,-88 0,0 0,-71 0,0 -97,-53 0,0 -9,-53 0,-44 9,-35 18,-36 44,-61 62,-53 0,0 17,-36 18,-35 9,-79 0,-62 0,-62 0,0 -168,-185 0,0 -79,-9 0,0 -150,27 0,0 -62,53 -53,61 -115,133 0,0 -79,132 -44,62 -44,53 0,0 -177,-115 -79,-62 -71,-53 0,0 -61,-9 -45,-17 -26,-27 -26,-17 0,0 0,-62 8,-35 9,-9 9,-9 53,-9 0,0 44,-62 53,-61 0,0 -9,-230 0,0 -18,-9 0,0 -26,-44 0,0 -35,-97 0,0 0,-88 9,-35 17,-27 0,0 35,18 27,18 18,44 17,53 0,0 44,35 44,35 27,18 26,9 36,0 53,-9 0,0 79,-80 0,0 106,-79 115,-88 106,-88 105,-80 0,0 45,-53 26,-53 53,-97 0,0 79,-26 71,-18 26,0 36,9 44,18 44,26 0,0 88,0 0,0 71,-79 0,0 0,-221 0,0 26,-70 0,0 35,8 53,27 45,44 52,62 0,0 53,44 45,17 61,9 0,0 18,-17 9,-36 9,-35 0,0 44,-53 0,0 35,35 0,0 9,168 0,0 53,62 53,70 61,80 80,79 0,0 0,221 0,0 62,79 0,0 150,106 0,0 105,71 0,0 -8,26 -27,35 -97,71 -106,71 -61,44 0,0 -80,79 0,0 -70,79 -62,80 0,0 -9,35 -9,44 -9,44 -17,45 0,0 -62,26 -71,35 0,0 -88,18 -79,26 -71,36 -71,35 -61,44 -53,53 -62,62 -53,70 0,0 -26,80 0,0 -36,106 -26,106 0,0 -132,35 -106,17 0,0 0,0 z m -1041,-2443 0,0 z m 2594,2444 0,0 z"
            id="path610" />

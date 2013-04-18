@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1607"
@@ -14,9 +15,31 @@
    id="svg5317"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="New document 33">
+   sodipodi:docname="zhejiang.svg">
   <defs
-     id="defs5319" />
+     id="defs5319">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2987">
+      <stop
+         style="stop-color:#00a0e9;stop-opacity:1;"
+         offset="0"
+         id="stop2989" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop2991" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2987"
+       id="linearGradient2993"
+       x1="20994.285"
+       y1="14084.286"
+       x2="20848.57"
+       y2="13964.286"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -30,8 +53,8 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="936"
+     inkscape:window-width="1440"
+     inkscape:window-height="876"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
@@ -43,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,7 +82,7 @@
       <g
          id="g458">
         <path
-           style="fill:#00a0e9;stroke:none"
+           style="fill:url(#linearGradient2993);stroke:none;fill-opacity:1"
            inkscape:connector-curvature="0"
            d="m 20037,14049 0,0 -89,-18 -53,-18 -44,-26 -35,-27 0,0 -97,-291 0,0 -88,-70 0,0 -80,-9 0,0 9,-71 -18,-62 -26,-61 -26,-53 -45,-53 -44,-44 -61,-71 0,0 0,-26 8,-27 36,-44 35,-44 35,-35 0,0 0,-36 9,-17 18,-27 17,-9 53,-35 44,-26 0,0 53,-89 0,0 0,-132 0,-62 9,-35 0,0 35,-9 45,-26 17,-9 27,0 26,0 27,18 0,0 123,0 0,0 27,-18 26,-18 35,-8 36,0 79,17 71,18 0,0 44,35 53,27 26,8 36,9 35,-9 35,-8 0,0 44,-36 44,-44 27,-9 26,-8 27,8 35,27 0,0 106,44 0,0 177,18 0,0 -18,26 -35,26 -89,62 -35,44 -26,36 -9,26 0,18 0,17 17,18 0,0 133,0 0,0 53,-53 0,0 9,44 0,36 -18,26 0,0 -62,18 -35,17 -71,36 0,0 9,88 0,0 88,44 0,0 -17,106 0,132 0,0 8,35 9,44 -9,62 -8,18 -9,26 0,0 -36,9 0,0 -8,-62 0,0 -18,-8 -18,0 -35,8 -35,27 -36,35 -70,71 -44,53 0,0 -18,44 -18,35 0,0 -8,256 0,0 -44,-9 0,0 -124,9 -97,9 -88,26 -97,36 0,0 0,0 z m -697,-1588 0,0 z m 1606,1588 0,0 z"
            id="path460" />
